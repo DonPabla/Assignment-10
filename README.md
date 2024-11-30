@@ -70,3 +70,12 @@ EmployeeData.java
 Нажмите Add Employee, чтобы добавить сотрудника в таблицу.
 Выберите сотрудника в таблице и нажмите Remove Employee, чтобы удалить его.
 Повторяйте по мере необходимости.
+
+![image](https://github.com/user-attachments/assets/ec615164-ee21-429e-8575-fb9e50972fff)
+![image2](https://github.com/user-attachments/assets/7b1120c7-8848-4dbe-be45-d5f5738d6c26)
+![image3](https://github.com/user-attachments/assets/a661fd2f-9821-4e63-a81e-3df8b7289a50)
+![image4](https://github.com/user-attachments/assets/75f1fa22-596c-457c-b470-24a5b28611de)
+
+
+
+
